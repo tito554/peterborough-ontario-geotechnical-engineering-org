@@ -1,0 +1,44 @@
+# Geotechnical Engineering — Peterborough Ontario
+
+> Geotechnical engineering services in Peterborough Ontario, Canada.
+
+## Services
+- [Anchors](https://peterborough-ontario.geotechnical-engineering.org/anchors/)
+- [Cbr Road](https://peterborough-ontario.geotechnical-engineering.org/cbr-road/)
+- [Cpt Test](https://peterborough-ontario.geotechnical-engineering.org/cpt-test/)
+- [Deep Excavations](https://peterborough-ontario.geotechnical-engineering.org/deep-excavations/)
+- [Excavation Monitoring](https://peterborough-ontario.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://peterborough-ontario.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://peterborough-ontario.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://peterborough-ontario.geotechnical-engineering.org/footings/)
+- [Foundations](https://peterborough-ontario.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://peterborough-ontario.geotechnical-engineering.org/geophysics/)
+- [Ground Improvement](https://peterborough-ontario.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://peterborough-ontario.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://peterborough-ontario.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://peterborough-ontario.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://peterborough-ontario.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://peterborough-ontario.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://peterborough-ontario.geotechnical-engineering.org/liquefaction/)
+- [Mat Foundations](https://peterborough-ontario.geotechnical-engineering.org/mat-foundations/)
+- [Piles](https://peterborough-ontario.geotechnical-engineering.org/piles/)
+- [Resistivity](https://peterborough-ontario.geotechnical-engineering.org/resistivity/)
+- [Retaining Walls](https://peterborough-ontario.geotechnical-engineering.org/retaining-walls/)
+- [Rigid Pavement](https://peterborough-ontario.geotechnical-engineering.org/rigid-pavement/)
+- [Road Geotechnics](https://peterborough-ontario.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://peterborough-ontario.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://peterborough-ontario.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://peterborough-ontario.geotechnical-engineering.org/seismic-isolation/)
+- [Slope Stability](https://peterborough-ontario.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://peterborough-ontario.geotechnical-engineering.org/slopes/)
+- [Spt Drilling](https://peterborough-ontario.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://peterborough-ontario.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://peterborough-ontario.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://peterborough-ontario.geotechnical-engineering.org/triaxial/)
+
+## Contact
+- Website: https://peterborough-ontario.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Peterborough Ontario, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
